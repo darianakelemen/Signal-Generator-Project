@@ -1,6 +1,3 @@
-Here is a comprehensive GitHub README for your **Signal Generator** project, formatted for direct copy-pasting. It incorporates the technical specifications, design choices, and hardware details from your documentation.
-
----
 
 # Analog Signal Generator (Triangle & Square Wave)
 
